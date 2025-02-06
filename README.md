@@ -3,5 +3,5 @@
 # **Hi, welcome to my git repo.**
 
 
-## Here trying tpo consolidate my learnings and create a re-usable code for future self. 
+## Here I'll be consolidate my learnings and create a re-usable code base.
 ## If you find anything useful please feel free to use. Follow for more updates.
